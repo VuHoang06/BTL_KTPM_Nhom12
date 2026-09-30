@@ -2,7 +2,7 @@
 
 **SmartDorm** là hệ thống phần mềm quản lý ký túc xá sinh viên hiện đại, hỗ trợ tự động hóa các quy trình quản lý thông tin sinh viên, phòng ở, đăng ký phòng, theo dõi thanh toán và xử lý sự cố thiết bị.
 
-Đồ án thuộc môn **Công nghệ phần mềm**.
+Đồ án thuộc môn **Kỹ Thuật phần mềm**.
 
 ---
 
